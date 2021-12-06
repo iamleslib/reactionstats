@@ -1,0 +1,9 @@
+Reaction Rate Statistics: 
+
+Number of experiements = 600
+Minimum rate = 21.130000 moles/sec
+Maximum rate = 57.130000 moles/sec
+Arithmetic mean = 43.441549 moles/sec
+Variance = 15.180155
+Standard deviation = 3.896172 moles/sec
+
